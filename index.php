@@ -1,6 +1,6 @@
 <?PHP
 $name = "name";
-$alter = alter;
+$alter = "alter";
 echo "Hallo, ich heisse $name, ich bin $alter Jahre alt." ;
 ?>
 <br>
