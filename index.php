@@ -35,6 +35,6 @@ if (isset($_GET["zahl3"]) && ($_GET["zahl4"])) {
     $zahl3 = ($_GET["zahl3"]);
     $zahl4 = ($_GET["zahl4"]);
     $ergebnis2 = $zahl3*$zahl4;
-    echo $zahl3 . " und " . $zahl4 . " gibt " . $ergebnis2;
+    echo $zahl3 . " mal " . $zahl4 . " gibt " . $ergebnis2;
 }
 ?>
